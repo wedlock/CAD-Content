@@ -20,10 +20,10 @@ widok z góry
 
 Opis projektu:
 
-Dostałem zlecenie do zaprojektowania zasilania w ciecz do ociekacza. Zadanie polegało na takim schowaniu już istniejącej elektroniki, żeby była jak najbardziej wodoodpowna.
+Dostałem zlecenie do zaprojektowania zasilania w ciecz do ociekacza. Zadanie polegało na takim schowaniu już istniejącej elektroniki, pompy i zasilania żeby była jak najbardziej wodoodpowna.
 
 
-3. Awaryjna śruba napędowa silnika HONDA
+2. Awaryjna śruba napędowa silnika HONDA
 
 <a href="./Awaryjna%20śruba%20napędowa%20silnika%20HONDA.png">
 <img src="./Awaryjna%20śruba%20napędowa%20silnika%20HONDA.png" width="400" alt="Śruba napędowa HONDA"/>
@@ -31,9 +31,9 @@ Dostałem zlecenie do zaprojektowania zasilania w ciecz do ociekacza. Zadanie po
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Strażacy z zaprzyjaźnionego PSP poprosili o awaryjną śrubę napędową , której nie szkoda połamać jak pływa się w krzakach. Dostałem oryginalną śrubę napędową i po dokonaniu jej pomiarów wydrukowałem im zamiennik z PETG-CF. Nawet jak ją połamią to nie tak szkoda jak oryginał.
 
-4. Customowa obudowa serwera NAS
+3. Customowa obudowa serwera NAS
 
 <a href="./Customowa%20obudowa%20serwera%20NAS%20z%202%20wentylatorami.png">
 <img src="./Customowa%20obudowa%20serwera%20NAS%20z%202%20wentylatorami.png" width="400" alt="Obudowa serwera NAS"/>
@@ -41,19 +41,13 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Zrobiłem dla siebie obudowę serwera dla Home Assistanta postawionego na Fujitsu Futro S940. 
 
-5. Forma do odlewu silikonu – część 1
+4. Forma do odlewu silikonu – część 1
 
 <a href="./Forma%20do%20odlewu%20silikonu%201z2.png">
 <img src="./Forma%20do%20odlewu%20silikonu%201z2.png" width="400" alt="Forma do odlewu silikonu – część 1"/>
 </a>
-
-Opis projektu:
-
-Tutaj wpisz krótki opis projektu.
-
-6. Forma do odlewu silikonu – część 2
 
 <a href="./Forma%20do%20odlewu%20silikonu%202z2.png">
 <img src="./Forma%20do%20odlewu%20silikonu%202z2.png" width="400" alt="Forma do odlewu silikonu – część 2"/>
@@ -61,19 +55,14 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Na podstawie skanu rany części ciała wykonałem negatyw i zaprojektowałem formę do odlewania w silikonie.
 
-7. Manekin do formy – przekrój
+
+5. Manekin do formy
 
 <a href="./Manekin%20do%20formy%20przekrój.png">
 <img src="./Manekin%20do%20formy%20przekrój.png" width="400" alt="Manekin do formy – przekrój"/>
 </a>
-
-Opis projektu:
-
-Tutaj wpisz krótki opis projektu.
-
-8. Manekin do formy
 
 <a href="./Manekin%20do%20formy.png">
 <img src="./Manekin%20do%20formy.png" width="400" alt="Manekin do formy"/>
@@ -81,9 +70,9 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Do już istniejącej formy do odlewu silikonu dorysowałem kończyny, stawy, otwory do rozprowadzania cieczy. Wewnątrz biodra umieściłem sterownik dla 4 pomp cieczy, gniazda przyłączeniowe i włączniki.
 
-9. Odtworzone koło zębate do zabawki
+6. Odtworzone koło zębate do zabawki
 
 <a href="./Odtworzone%20koło%20zębate%20do%20zabawki%20z%20Biedronki.png">
 <img src="./Odtworzone%20koło%20zębate%20do%20zabawki%20z%20Biedronki.png" width="400" alt="Odtworzone koło zębate"/>
@@ -91,9 +80,9 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Dzieci połamały koło do rysowania. Zmierzyłem stare, połamane i zaprojektowałem zamiennik. Niby nic ale dzieci zadowolone.
 
-10. Odtworzony uchwyt farelki
+7. Odtworzony uchwyt farelki
 
 <a href="./Odtworzony%20uchwyt%20farelki%20z%20połamanej%20części.png">
 <img src="./Odtworzony%20uchwyt%20farelki%20z%20połamanej%20części.png" width="400" alt="Odtworzony uchwyt farelki"/>
@@ -101,9 +90,9 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Z połamanego uchwytu farelki samochodowej odtworzyłem mocowanie. Wydruk poszedł z PETG-CF.
 
-11. Projekt gięcia blachy do ociekacza
+8. Projekt gięcia blachy do ociekacza
 
 <a href="./Projekt%20gięcia%20blachy%20do%20ociekacza.png">
 <img src="./Projekt%20gięcia%20blachy%20do%20ociekacza.png" width="400" alt="Projekt gięcia blachy"/>
@@ -111,9 +100,9 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Zajmuję się także rysunkiem technicznym. Tu wykonałem rysunek techniczny do cięcia laserem i gięcia blachy dla ociekacza.
 
-12. Pudełko sterownika
+9. Pudełko sterownika
 
 <a href="./Pudełko%20sterownika.png">
 <img src="./Pudełko%20sterownika.png" width="400" alt="Pudełko sterownika"/>
@@ -121,9 +110,9 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Małe pudełko ze sterowaniem i pompą mieszczące się w saszetce biodrowej. Zwymiarowałem dostarczone elementy i na ich podstawie stworzyłem pudełko.
 
-13. Sterownik – duży box
+10. Sterownik – duży box
 
 <a href="./Sterownik%20duży%20box.png">
 <img src="./Sterownik%20duży%20box.png" width="400" alt="Sterownik – duży box"/>
@@ -131,9 +120,9 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Podobny projekt do powyższego jednak zasilany baterią 12V, z dużo większą pompą. 
 
-14. Sterownik z rozdzielaczem cieczy
+11. Sterownik z rozdzielaczem cieczy
 
 <a href="./Sterownik%20z%20rozdzielaczem%20cieczy.png">
 <img src="./Sterownik%20z%20rozdzielaczem%20cieczy.png" width="400" alt="Sterownik z rozdzielaczem cieczy"/>
@@ -141,9 +130,9 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+Musiałem domodelować uchwyt i prowadzenia dla przewodów silikonowych, bo zaginały się prowadzone pod zbyt dużym kątem.
 
-15. Uchwyt na LED bar z regulacją kąta świecenia
+12. Uchwyt na LED bar z regulacją kąta świecenia
 
 <a href="./Uchwyt%20na%20led%20bara%20z%20ustawianym%20kątem%20świecenia.png">
 <img src="./Uchwyt%20na%20led%20bara%20z%20ustawianym%20kątem%20świecenia.png" width="400" alt="Uchwyt na LED bar"/>
@@ -151,10 +140,10 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis projektu.
+To narysowałem i wydrukowałem dla siebie. Led bar na monitorze odbijał mi się od ekranu. Obecnie jest pod ekranem i świeci mi na klawiaturę a nie po oczach ( brak reflexów od monitora ). Dodanie regulacji konta świecenia pomaga regulować naświetlenie miejsca pracy a dzięki śrubie ślimakowej, układ jest sammochamujący.
 
 🛠️ Technologie i umiejętności
-Projektowanie 3D CAD
+Projektowanie 3D CAD w programie Solid Works
 Modelowanie części mechanicznych
 Projektowanie obudów i elementów użytkowych
 Odtwarzanie uszkodzonych części
