@@ -3,8 +3,7 @@ CAD-Content – Portfolio projektów CAD
 Witaj w moim portfolio projektów CAD!
 
 Znajdziesz tutaj projekty własne, modele odtworzone na podstawie istniejących elementów, części zamienne oraz praktyczne rozwiązania techniczne.
-
-Każdy projekt zawiera podgląd graficzny oraz krótki opis.
+Nie załączam banalnych rzeczy jak breloczki, cyfry na dom itp.
 
 📐 Galeria projektów
 1. Autonomiczny sterownik
@@ -13,11 +12,7 @@ Każdy projekt zawiera podgląd graficzny oraz krótki opis.
 <img src="./Autonomiczny%20sterownik.png" width="400" alt="Autonomiczny sterownik"/>
 </a>
 
-Opis projektu:
-
-Tutaj wpisz krótki opis projektu.
-
-2. Autonomiczny sterownik – widok z góry
+widok z góry
 
 <a href="./Autonomiczny%20sterownik%20-%20widok%20z%20góry.png">
 <img src="./Autonomiczny%20sterownik%20-%20widok%20z%20góry.png" width="400" alt="Autonomiczny sterownik – widok z góry"/>
@@ -25,7 +20,8 @@ Tutaj wpisz krótki opis projektu.
 
 Opis projektu:
 
-Tutaj wpisz krótki opis zdjęcia.
+Dostałem zlecenie do zaprojektowania zasilania w ciecz do ociekacza. Zadanie polegało na takim schowaniu już istniejącej elektroniki, żeby była jak najbardziej wodoodpowna.
+
 
 3. Awaryjna śruba napędowa silnika HONDA
 
