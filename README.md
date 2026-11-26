@@ -7,7 +7,7 @@ Witaj w moim małym portfolio projektów CAD. Poniżej znajdziesz listę dostęp
 ## Projekty
 
 ### Projekt 1 - [Nazwa pliku lub katalogu]
-- Plik/Folder: [link do pliku lub folderu na GitHubie](https://github.com/wedlock/CAD-Content/tree/main/Projekt1)
+- Plik/Folder: (https://github.com/wedlock/CAD-Content/tree/main/Projekt1)
 - Opis zdjęcia:  
   *(tu możesz wpisać opis zdjęcia/obrazu projektu)*  
 - ![Zdjęcie projektu 1](link-do-zdjecia1.jpg)  
@@ -16,7 +16,7 @@ Witaj w moim małym portfolio projektów CAD. Poniżej znajdziesz listę dostęp
 ---
 
 ### Projekt 2 - [Nazwa pliku lub katalogu]
-- Plik/Folder: [link do pliku lub folderu na GitHubie](https://github.com/wedlock/CAD-Content/tree/main/Projekt2)
+- Plik/Folder: (https://github.com/wedlock/CAD-Content/tree/main/Projekt2)
 - Opis zdjęcia:  
   *(tu możesz wpisać opis zdjęcia/obrazu projektu)*  
 - ![Zdjęcie projektu 2](link-do-zdjecia2.jpg)  
@@ -24,7 +24,7 @@ Witaj w moim małym portfolio projektów CAD. Poniżej znajdziesz listę dostęp
 ---
 
 ### Projekt 3 - [Nazwa pliku lub katalogu]
-- Plik/Folder: [link do pliku lub folderu na GitHubie](https://github.com/wedlock/CAD-Content/tree/main/Projekt3)
+- Plik/Folder: (https://github.com/wedlock/CAD-Content/tree/main/Projekt3)
 - Opis zdjęcia:  
   *(tu możesz wpisać opis zdjęcia/obrazu projektu)*  
 - ![Zdjęcie projektu 3](link-do-zdjecia3.jpg)  
