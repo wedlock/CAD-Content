@@ -2,10 +2,10 @@ CAD-Content – Portfolio projektów CAD
 
 Witaj w moim portfolio projektów CAD!
 
-Znajdziesz tutaj projekty własne, modele odtworzone na podstawie istniejących elementów, części zamienne oraz praktyczne rozwiązania techniczne.
-Nie załączam banalnych rzeczy jak breloczki, cyfry na dom itp.
+Znajdziesz tutaj moje projekty CAD, modele odtworzone na podstawie istniejących elementów, części zamienne oraz praktyczne rozwiązania techniczne. Skupiam się przede wszystkim na projektach użytkowych, rozwiązywaniu rzeczywistych problemów konstrukcyjnych i tworzeniu elementów, które mają konkretne zastosowanie.
 
 📐 Galeria projektów
+
 1. Autonomiczny sterownik
 
 <a href="./Autonomiczny%20sterownik.png">
@@ -20,7 +20,7 @@ widok z góry
 
 Opis projektu:
 
-Dostałem zlecenie do zaprojektowania zasilania w ciecz do ociekacza. Zadanie polegało na takim schowaniu już istniejącej elektroniki, pompy i zasilania żeby była jak najbardziej wodoodpowna.
+Dostałem zlecenie zaprojektowania układu doprowadzania cieczy do ociekacza. Zadanie polegało na umieszczeniu istniejącej elektroniki, pompy i zasilania w możliwie kompaktowej obudowie, zapewniającej jak najlepszą ochronę przed wodą.
 
 
 2. Awaryjna śruba napędowa silnika HONDA
@@ -31,7 +31,7 @@ Dostałem zlecenie do zaprojektowania zasilania w ciecz do ociekacza. Zadanie po
 
 Opis projektu:
 
-Strażacy z zaprzyjaźnionego PSP poprosili o awaryjną śrubę napędową , której nie szkoda połamać jak pływa się w krzakach. Dostałem oryginalną śrubę napędową i po dokonaniu jej pomiarów wydrukowałem im zamiennik z PETG-CF. Nawet jak ją połamią to nie tak szkoda jak oryginał.
+Strażacy z zaprzyjaźnionej jednostki PSP poprosili mnie o zaprojektowanie awaryjnej śruby napędowej, której nie będzie szkoda uszkodzić podczas pływania w zarośniętych akwenach. Otrzymałem oryginalną śrubę, wykonałem jej pomiary i zaprojektowałem zamiennik, który następnie wydrukowałem z PETG-CF. W razie uszkodzenia znacznie taniej wymienić wydruk niż oryginalną śrubę.
 
 3. Customowa obudowa serwera NAS
 
@@ -41,7 +41,7 @@ Strażacy z zaprzyjaźnionego PSP poprosili o awaryjną śrubę napędową , kt�
 
 Opis projektu:
 
-Zrobiłem dla siebie obudowę serwera dla Home Assistanta postawionego na Fujitsu Futro S940. 
+Mam w domu Home Assistanta postawionego na Fujitsu Futro S940 i serwerze Proxmox wraz z innymi kontenerami. Obciążenie procesora wymusiło na mnie jego aktywne chłodzenie. Dodatkowo chciałem aby nowa obydowa serwera była funkcjonalna ( dodatkowa kieszeń na dysk, równierz chłodzona ). Dodałem miejsce na montaż sterownika PWM wentylatorów. 
 
 4. Forma do odlewu silikonu – część 1
 
@@ -55,7 +55,7 @@ Zrobiłem dla siebie obudowę serwera dla Home Assistanta postawionego na Fujits
 
 Opis projektu:
 
-Na podstawie skanu rany części ciała wykonałem negatyw i zaprojektowałem formę do odlewania w silikonie.
+Na podstawie skanu obszaru ciała ( model w plastelinie technicznej ) wykonałem negatyw i zaprojektowałem formę przeznaczoną do odlewania silikonu.
 
 
 5. Manekin do formy
@@ -70,7 +70,7 @@ Na podstawie skanu rany części ciała wykonałem negatyw i zaprojektowałem fo
 
 Opis projektu:
 
-Do już istniejącej formy do odlewu silikonu dorysowałem kończyny, stawy, otwory do rozprowadzania cieczy. Wewnątrz biodra umieściłem sterownik dla 4 pomp cieczy, gniazda przyłączeniowe i włączniki.
+Do już istniejącej formy do odlewu silikonu zaprojektowałem kończyny, stawy, otwory do rozprowadzania cieczy. Wewnątrz biodra umieściłem sterownik dla 4 pomp cieczy, gniazda przyłączeniowe i włączniki.
 
 6. Odtworzone koło zębate do zabawki
 
@@ -80,8 +80,7 @@ Do już istniejącej formy do odlewu silikonu dorysowałem kończyny, stawy, otw
 
 Opis projektu:
 
-Dzieci połamały koło do rysowania. Zmierzyłem stare, połamane i zaprojektowałem zamiennik. Niby nic ale dzieci zadowolone.
-
+Dzieci połamały koło zębate w zabawce do rysowania. Zmierzyłem uszkodzony element i zaprojektowałem jego zamiennik. Niby niewielki projekt, ale dzieci zadowolone!
 7. Odtworzony uchwyt farelki
 
 <a href="./Odtworzony%20uchwyt%20farelki%20z%20połamanej%20części.png">
@@ -100,7 +99,7 @@ Z połamanego uchwytu farelki samochodowej odtworzyłem mocowanie. Wydruk poszed
 
 Opis projektu:
 
-Zajmuję się także rysunkiem technicznym. Tu wykonałem rysunek techniczny do cięcia laserem i gięcia blachy dla ociekacza.
+Zajmuję się również przygotowywaniem dokumentacji technicznej. W tym przypadku wykonałem rysunek przeznaczony do wycinania laserowego i gięcia blachy na potrzeby produkcji ociekacza.
 
 9. Pudełko sterownika
 
@@ -110,7 +109,7 @@ Zajmuję się także rysunkiem technicznym. Tu wykonałem rysunek techniczny do 
 
 Opis projektu:
 
-Małe pudełko ze sterowaniem i pompą mieszczące się w saszetce biodrowej. Zwymiarowałem dostarczone elementy i na ich podstawie stworzyłem pudełko.
+Niewielka obudowa mieszcząca sterowanie i pompę, zaprojektowana tak, aby cały zestaw mieścił się w saszetce biodrowej. Zwymiarowałem dostarczone elementy i na ich podstawie zaprojektowałem obudowę.
 
 10. Sterownik – duży box
 
@@ -120,7 +119,7 @@ Małe pudełko ze sterowaniem i pompą mieszczące się w saszetce biodrowej. Zw
 
 Opis projektu:
 
-Podobny projekt do powyższego jednak zasilany baterią 12V, z dużo większą pompą. 
+Podobny projekt do powyższego jednak zasilany baterią 12V, z dużo większą pompą. Zadanie polegało na zamknięciu wszystkiego w jednym , odpornym za zachlapania pudełku i pozostawienia wolnego miejsca na przewody z cieczą.
 
 11. Sterownik z rozdzielaczem cieczy
 
@@ -130,7 +129,7 @@ Podobny projekt do powyższego jednak zasilany baterią 12V, z dużo większą p
 
 Opis projektu:
 
-Musiałem domodelować uchwyt i prowadzenia dla przewodów silikonowych, bo zaginały się prowadzone pod zbyt dużym kątem.
+W tym projekcie musiałem domodelować uchwyt oraz prowadnice przewodów silikonowych. Problemem było ich zaginanie się przy zbyt ostrych zmianach kierunku prowadzenia.
 
 12. Uchwyt na LED bar z regulacją kąta świecenia
 
@@ -140,14 +139,25 @@ Musiałem domodelować uchwyt i prowadzenia dla przewodów silikonowych, bo zagi
 
 Opis projektu:
 
-To narysowałem i wydrukowałem dla siebie. Led bar na monitorze odbijał mi się od ekranu. Obecnie jest pod ekranem i świeci mi na klawiaturę a nie po oczach ( brak reflexów od monitora ). Dodanie regulacji konta świecenia pomaga regulować naświetlenie miejsca pracy a dzięki śrubie ślimakowej, układ jest sammochamujący.
+Zaprojektowałem i wydrukowałem go na własne potrzeby. LED bar umieszczony na monitorze odbijał światło od ekranu. Przeniosłem go pod monitor, dzięki czemu oświetla klawiaturę i miejsce pracy, nie powodując odblasków na ekranie. Dodatkowa regulacja kąta świecenia pozwala dostosować oświetlenie do aktualnych potrzeb. Zastosowanie przekładni ślimakowej sprawia, że mechanizm jest samohamowny.
 
 🛠️ Technologie i umiejętności
-Projektowanie 3D CAD w programie Solid Works
-Modelowanie części mechanicznych
-Projektowanie obudów i elementów użytkowych
-Odtwarzanie uszkodzonych części
-Projektowanie elementów do druku 3D
-Rozwiązywanie praktycznych problemów konstrukcyjnych
+1. Oprogramowanie : SolidWorks
+
+2. Materiały : PETG-CF, PETG, druk 3D – nie są mi obce
+
+3. Zakres umiejętności : modelowanie 3D, inżynieria odwrotna, dokumentacja techniczna, projektowanie pod druk 3D.
+   
+4. 🖨️ Doświadczenie w druku 3D
+Na własne potrzeby korzystam z drukarek 3D Bambu Lab H2S oraz Snapmaker U1. Dzięki praktycznemu doświadczeniu w druku FDM uwzględniam już na etapie projektowania CAD ograniczenia i możliwości tej technologii.
+
+Zwracam szczególną uwagę na:
+
+Ograniczenia wynikające z drukowania nawisów i konieczności stosowania podpór.
+Orientację modelu na stole roboczym i jej wpływ na wytrzymałość wydruku.
+Tolerancje wymiarowe, pasowanie elementów i luzy montażowe.
+Podział skomplikowanych modeli na części ułatwiający ich drukowanie i późniejszy montaż.
+Dobór materiałów i geometrii elementów pod kątem ich funkcjonalności oraz możliwości wykonania.
+Dzięki temu projektowane przeze mnie elementy są nie tylko poprawne geometrycznie, ale również przemyślane pod kątem rzeczywistego procesu produkcji.
 
 Dziękuję za odwiedzenie mojego portfolio!
